@@ -1,0 +1,30 @@
+{
+  "name": "react-native-acm-final",
+  "version": "0.0.0",
+  "description": "Navigating Between Screens or Activities Using React Navigation Library",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "^34.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.2.tar.gz",
+    "moment": "*",
+    "pubnub": "latest",
+    "react-dom": "latest",
+    "react-navigation": "^2.6.2",
+    "react-native-paper": "2.1.3",
+    "react-native-elements": "latest",
+    "react-native-ionicons": "latest",
+    "react-native-gifted-chat": "latest",
+    "react-native-linear-gradient": "latest",
+    "react-native-bootstrap-styles": "latest",
+    "react-native-dynamic-search-bar": "latest",
+    "@freakycoder/react-native-helpers": "^0.1.0",
+    "react-native-dynamic-vector-icons": ">= x.x.x",
+    "react-native-image-picker": "latest"
+  }
+}
